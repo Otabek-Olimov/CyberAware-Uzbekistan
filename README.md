@@ -1,6 +1,6 @@
 # CyberTahlil: Raising Cybersecurity Awareness in Uzbekistan
 
-![CyberTahlil Banner](assets/banner.png)
+![CyberTahlil Banner](assets/banner1.png)
 
 **CyberTahlil** is a youth-led cybersecurity awareness initiative launched in 2025 by Otabek Olimov, a high school student from Uzbekistan. The project aims to educate Uzbek students about digital safety, online privacy, and responsible internet use through practical articles in both Uzbek and English.
 
