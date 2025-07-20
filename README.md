@@ -42,13 +42,13 @@ We believe that digital literacy and cybersecurity awareness should be a part of
 **Otabek Olimov**  
 High school student (Gold Medalist) from Namangan, Uzbekistan  
 Cybersecurity enthusiast and future changemaker  
-📧 Email: otabek.cyberaware@gmail.com
+📧 Email: otabekolimov673@gmail.com
 
 ---
 
 ## 🌐 Explore More
 
-Visit our main initiative site: [CyberSafe Uzbekistan](https://your-website-link)  
+ 
 Follow our GitHub for more updates and upcoming articles.
 
 > This project is part of a broader effort to build a **cyber-aware generation in Uzbekistan**.
