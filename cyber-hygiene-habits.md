@@ -1,4 +1,4 @@
-#Cyber Hygiene: Everyday Digital Safety Habits
+Cyber Hygiene: Everyday Digital Safety Habits
 
  just like brushing your teeth keeps you healthy, being good at cyber stuff keeps your online life safe In Uzbekistan, where kids are glued to their screens all day for school, socializing, or games, sticking to some easy daily routines can seriously up their safety game.
 
