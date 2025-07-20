@@ -1,57 +1,52 @@
-# 🛡️ CyberTahlil: Cybersecurity Awareness for Uzbek Youth
+# CyberTahlil: Raising Cybersecurity Awareness in Uzbekistan
 
 ![CyberTahlil Banner](assets/banner.png)
 
-**CyberTahlil** is a student-led initiative founded by **Otabek Olimov** in 2025, focused on raising digital safety awareness among Uzbek students and youth. With the rapid growth of internet use in Uzbekistan, cybersecurity education has become not only relevant but essential.
+**CyberTahlil** is a youth-led cybersecurity awareness initiative launched in 2025 by Otabek Olimov, a high school student from Uzbekistan. The project aims to educate Uzbek students about digital safety, online privacy, and responsible internet use through practical articles in both Uzbek and English.
 
 ---
 
-## 📚 What You'll Find Here
+## 📚 Articles Published
 
-This repository contains a collection of **original cybersecurity awareness articles** written in clear and accessible English to help teenagers and students stay safe online. Each article includes practical advice and real-life examples tailored to the digital habits of young people.
+Each article is based on real-world digital threats and simplified for easy understanding. So far, we have published the following cybersecurity awareness articles:
 
-### 📖 Articles List:
+1. **Phishing Attacks** – How to identify and avoid fake emails and messages.
+2. **Password Safety** – Why strong, unique passwords matter more than ever.
+3. **Cyberbullying** – What it is, how it spreads, and how to defend against it.
+4. **Social Media Risks** – Managing your privacy and personal information online.
+5. **Mobile Security** – Keeping your phone and apps safe from data leaks.
 
-1. [01 - Cyber Hygiene Habits](01-cyber-hygiene-habits.md)  
-   Practical ways to keep your digital life clean and secure.
-
-2. [02 - Recognizing and Reporting Cyberbullying](02-cyberbullying-recognition-reporting.md)  
-   Learn how to detect, react, and protect yourself or others from online bullying.
-
-3. [03 - Importance of Cybersecurity](03-importance-of-cybersecurity.md)  
-   Why cybersecurity matters in the modern digital world.
-
-4. [04 - Phishing Scams Awareness](04-phishing-scams-awareness.md)  
-   Learn how to identify and avoid online scams that target your data.
-
-5. [05 - Top 5 Cyber Threats](05-top-5-cyber-threats.md)  
-   An overview of the most common cyber threats students face in Uzbekistan.
+Articles are available in the `articles/` folder in Markdown format.
 
 ---
 
-## 🎯 Project Mission
+## 🌐 Project Goals
 
-> To empower every Uzbek student to become **smart, safe, and responsible online**.
-
-We believe that digital literacy and cybersecurity awareness should be a part of every student's education. CyberTahlil is here to start that journey — one article at a time.
+- Make cybersecurity education accessible to Uzbek youth.
+- Promote responsible online behavior.
+- Encourage more students to engage in tech and cybersecurity fields.
 
 ---
 
-## 👤 Author
+## 🧠 Why CyberTahlil?
+
+In Uzbekistan, digital literacy is growing—but so are online threats. Through clear and student-friendly writing, CyberTahlil helps bridge the gap between technology and safe usage.
+
+---
+
+## 👨‍💻 Author
 
 **Otabek Olimov**  
-High school student (Gold Medalist) from Namangan, Uzbekistan  
-Cybersecurity enthusiast and future changemaker  
-📧 Email: otabekolimov673@gmail.com
+Founder of CyberTahlil  
+Gold medal graduate | Cybersecurity applicant  
+
 
 ---
 
-## 🌐 Explore More
+## 🤝 Want to Collaborate?
 
- 
-Follow our GitHub for more updates and upcoming articles.
+If you're interested in contributing to CyberTahlil, translating articles, or running awareness campaigns in schools, feel free to reach out or submit a pull request.
 
-> This project is part of a broader effort to build a **cyber-aware generation in Uzbekistan**.
 
 ---
 
