@@ -16,7 +16,6 @@ Each article is based on real-world digital threats and simplified for easy unde
 4. **Social Media Risks** – Managing your privacy and personal information online.
 5. **Mobile Security** – Keeping your phone and apps safe from data leaks.
 
-Articles are available in the `articles/` folder in Markdown format.
 
 ---
 
